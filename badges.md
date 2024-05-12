@@ -4,6 +4,7 @@ Here are some useful badges you can use in your GitHub repositories:
 
 ## Social Media
 
+- **Instagram Follow:** [![Instagram](https://img.shields.io/badge/Follow%20me-%401noxah-ff69b4?style=social&logo=instagram)](https://www.instagram.com/1noxah/)
 - **Twitter Follow:** [![Twitter Follow](https://img.shields.io/twitter/follow/1noxah?style=social)](https://twitter.com/1noxah)
 - **Twitter:** [![jhc twitter](https://img.shields.io/badge/Twitter-@1noxah-00aced.svg?style=flat&logo=twitter)](https://twitter.com/1noxah)
 - **YouTube Subscribers:** [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJ_jVJNYxUA9ZQGZRO7nUPw?style=social)](https://www.youtube.com/channel/UCJ_jVJNYxUA9ZQGZRO7nUPw)
